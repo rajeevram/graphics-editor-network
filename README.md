@@ -15,7 +15,7 @@ This graphics application is written with JavaFX and the standard Java I/O Libra
 * [X] a server to support multipel clients can be started
 * [X] all client views are updated in real time
 
-<img src='https://imgur.com/a/NwBMBgZ.gif' title='NetPaint GUI Walkthrough' width='' alt='Graphics Editor Network' />
+<img src='https://imgur.com/wmnGxwd.gif' title='NetPaint GUI Walkthrough' width='' alt='Graphics Editor Network' />
 
 ## Structure and Design
 
