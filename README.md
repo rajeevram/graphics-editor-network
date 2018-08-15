@@ -21,8 +21,6 @@ This graphics application is written with JavaFX and the standard Java I/O Libra
 
 For this application, the Model-View-Controller (MVC) architecture is used via client and server input and output sockets with nested while loops. Each Client is its own JavaFX application with a stage, pane, canvas, buttons, etc.
 
-Watch the following video for a more detailed project walkthrough (to-do upload video)
-
 ## Code Coverage (JUnit)
 
 There is no code coverage for this project. Extensive system tests were performed for the client-server functionality.
